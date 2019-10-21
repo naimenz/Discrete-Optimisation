@@ -133,12 +133,3 @@ as sets Y and N from [^YN].
 [^YN]: <http://www.enseignement.polytechnique.fr/informatique/INF431/X09-2010-2011/AmphiLL/branch_and_bound_for_TSP-notes.pdf>
 [^two-opt]: <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.7639&rep=rep1&type=pdf>
 [^HK]: <https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm#Algorithm>
-
-<style>
-    body {
-        color: #333;
-        max-width: 700px;
-        margin: 50px;
-        font-size: 18px;
-    }
-</style>
